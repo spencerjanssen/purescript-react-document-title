@@ -1,0 +1,16 @@
+{
+  "name": "purescript-react-document-title",
+  "version": "0.0.1",
+  "moduleType": [
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-react": "^0.7.1"
+  }
+}
